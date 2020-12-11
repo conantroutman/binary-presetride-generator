@@ -1,0 +1,821 @@
+{
+    "wheels": [
+        {
+          "id": "5ZIGEN",
+          "name": "5Zigen",
+          "styles": [
+            "FN01C",
+            "Supersix",
+            "5ZR",
+            "GN+",
+            "Gravis 1"
+          ]
+        },
+        {
+          "id": "ADR",
+          "name": "ADR",
+          "styles": [
+            "Empire",
+            "GT-Sport",
+            "M Sport",
+            "Sokudo8"
+          ]
+        },
+        {
+          "id": "BBS",
+          "name": "BBS",
+          "styles": [
+            "GT",
+            "RS GT",
+            "LM",
+            "CH",
+            "RX"
+          ]
+        },
+        {
+          "id": "ENKEI",
+          "name": "Enkei",
+          "styles": [
+            "NT03+M",
+            "J Speed 3",
+            "ES-Tarmac",
+            "WRC Tarmac"
+          ]
+        },
+        {
+          "id": "KONIG",
+          "name": "König",
+          "styles": [
+            "Blatant",
+            "Imagine",
+            "Theory"
+          ]
+        },
+        {
+          "id": "LOWENHART",
+          "name": "Lövenhart",
+          "styles": [
+            "LDR",
+            "XIR",
+            "BR5"
+          ]
+        },
+        {
+          "id": "OZ",
+          "name": "O.Z.",
+          "styles": [
+            "Superleggera",
+            "Superturismo",
+            "Opera",
+            "Superleggera III",
+            "Leonardo"
+          ]
+        },
+        {
+          "id": "RACINGHART",
+          "name": "Racing Hart",
+          "styles": [
+            "Multi C4",
+            "CX",
+            "CP",
+            "CR"
+          ]
+        },
+        {
+          "id": "ROJA",
+          "name": "Ro Ja",
+          "styles": [
+            "Formula 1",
+            "Formula 7",
+            "Formula 2"
+          ]
+        },
+        {
+          "id": "VOLK",
+          "name": "Volk",
+          "styles": [
+            "TE37",
+            "CE28",
+            "GT-P"
+          ]
+        }
+    ],
+    "spoilers": [
+        {
+          "id": "31",
+          "name": "Groundmaster"
+        },
+        {
+          "id": "8",
+          "name": "Reaper"
+        },
+        {
+          "id": "18",
+          "name": "Slingshot"
+        },
+        {
+          "id": "41",
+          "name": "Fishtail (Sport)"
+        },
+        {
+          "id": "2",
+          "name": "Rocker 5"
+        },
+        {
+          "id": "42",
+          "name": "Viper"
+        },
+        {
+          "id": "15",
+          "name": "Banshee"
+        },
+        {
+          "id": "7",
+          "name": "Ripper"
+        },
+        {
+          "id": "3",
+          "name": "Airforce"
+        },
+        {
+          "id": "11",
+          "name": "Dragon"
+        },
+        {
+          "id": "16",
+          "name": "Mystic"
+        },
+        {
+          "id": "34",
+          "name": "Dynamo"
+        },
+        {
+          "id": "43",
+          "name": "Edge"
+        },
+        {
+          "id": "17",
+          "name": "Specter"
+        },
+        {
+          "id": "4",
+          "name": "Arrow"
+        },
+        {
+          "id": "5",
+          "name": "Barracuda"
+        },
+        {
+          "id": "32",
+          "name": "Switchblade"
+        },
+        {
+          "id": "1",
+          "name": "Jorgen"
+        },
+        {
+          "id": "44",
+          "name": "Lynx"
+        },
+        {
+          "id": "40",
+          "name": "Scarab"
+        },
+        {
+          "id": "9",
+          "name": "Borra"
+        },
+        {
+          "id": "29",
+          "name": "Fishtail (Tuner)"
+        },
+        {
+          "id": "10",
+          "name": "Ghost"
+        },
+        {
+          "id": "26",
+          "name": "Tornado"
+        },
+        {
+          "id": "36",
+          "name": "Joker"
+        },
+        {
+          "id": "13",
+          "name": "Tandem"
+        },
+        {
+          "id": "6",
+          "name": "Wildfire"
+        },
+        {
+          "id": "30",
+          "name": "Impact"
+        },
+        {
+          "id": "27",
+          "name": "Venom"
+        },
+        {
+          "id": "38",
+          "name": "Phoenix"
+        }
+    ],
+    "roofscoops": [
+        {
+            "id": "11",
+            "name": "Airstream"
+        },
+        {
+            "id": "10",
+            "name": "Blastback"
+        },
+        {
+            "id": "14",
+            "name": "Cyclone"
+        },
+        {
+            "id": "3",
+            "name": "Headwind"
+        },
+        {
+            "id": "2",
+            "name": "Jetstream"
+        },
+        {
+            "id": "1",
+            "name": "Northeast"
+        },
+        {
+            "id": "5",
+            "name": "Riptide"
+        },
+        {
+            "id": "15",
+            "name": "Tempest"
+        },
+        {
+            "id": "17",
+            "name": "Twister"
+        },
+        {
+            "id": "9",
+            "name": "Windtunnel"
+        },
+        {
+            "id": "18",
+            "name": "Typhoon"
+        }
+    ],
+    "hoods": [
+        {
+            "id": "16",
+            "name": "Colix"
+        },
+        {
+            "id": "13",
+            "name": "Fusion"
+        },
+        {
+            "id": "6",
+            "name": "Overdial"
+        },
+        {
+            "id": "7",
+            "name": "Trident"
+        },
+        {
+            "id": "17",
+            "name": "Airomax"
+        },
+        {
+            "id": "20",
+            "name": "DJM Hyde"
+        },
+        {
+            "id": "2",
+            "name": "Double-V"
+        },
+        {
+            "id": "4",
+            "name": "Speed"
+        },
+        {
+            "id": "3",
+            "name": "Tri-Slot"
+        },
+        {
+            "id": "23",
+            "name": "Factor X"
+        },
+        {
+            "id": "26",
+            "name": "Speedline"
+        },
+        {
+            "id": "32",
+            "name": "Tremor"
+        },
+        {
+            "id": "5",
+            "name": "G-Force"
+        },
+        {
+            "id": "9",
+            "name": "Mongoose"
+        },
+        {
+            "id": "21",
+            "name": "Eraser"
+        },
+        {
+            "id": "31",
+            "name": "Tsunami"
+        },
+        {
+            "id": "10",
+            "name": "Twister"
+        }
+    ],
+    "tints": [
+        {
+            "id": "L1_BLACK",
+            "name": "Light Black"
+        },
+        {
+            "id": "L1_GREEN",
+            "name": "Light Green"
+        },
+        {
+            "id": "L1_MED_BLACK",
+            "name": "Light Black"
+        },
+        {
+            "id": "L1_MED_GREEN",
+            "name": "Light Green"
+        },
+        {
+            "id": "L1_BLUE",
+            "name": "Dark Blue"
+        },
+        {
+            "id": "L1_RED",
+            "name": "Dark Red"
+        },
+        {
+            "id": "L2_BLACK",
+            "name": "Dark Black"
+        },
+        {
+            "id": "L2_BLUE",
+            "name": "Dark Blue"
+        },
+        {
+            "id": "L2_GREEN",
+            "name": "Dark Green"
+        },
+        {
+            "id": "L2_RED",
+            "name": "Dark Red"
+        },
+        {
+            "id": "L2_YELLOW",
+            "name": "Dark Yellow"
+        },
+        {
+            "id": "L2_AQUA",
+            "name": "Dark Aqua"
+        },
+        {
+            "id": "L2_GOLD",
+            "name": "Dark Gold"
+        },
+        {
+            "id": "L2_LIME",
+            "name": "Dark Lime"
+        },
+        {
+            "id": "L2_PINK",
+            "name": "Dark Magenta"
+        },
+        {
+            "id": "L2_ORANGE",
+            "name": "Dark Orange"
+        },
+        {
+            "id": "L2_LAVENDER",
+            "name": "Dark Purple"
+        }
+    ],
+    "decals": [
+        {
+            "id": "5ZIGEN",
+            "name": "5Zigen"
+        },
+        {
+            "id": "APEXI",
+            "name": "A'Pex Integration"
+        },
+        {
+            "id": "ABS",
+            "name": "5Zigen"
+        },
+        {
+            "id": "ACAUTOTECHNIC",
+            "name": "AC Autotechnic"
+        },
+        {
+            "id": "ADR",
+            "name": "ADR Wheels"
+        },
+        {
+            "id": "ACT",
+            "name": "Advanced Clutch Technologies"
+        },
+        {
+            "id": "AEM",
+            "name": "Advanced Engine Management"
+        },
+        {
+            "id": "ALPINE",
+            "name": "Alpine"
+        },
+        {
+            "id": "APEX",
+            "name": "Apex Springs"
+        },
+        {
+            "id": "ARAXIS",
+            "name": "Araxis Performance"
+        },
+        {
+            "id": "AROSPEED",
+            "name": "Arospeed"
+        },
+        {
+            "id": "AUDIOBAHN",
+            "name": "Audiobahn"
+        },
+        {
+            "id": "AVUS",
+            "name": "Avus"
+        },
+        {
+            "id": "B&M",
+            "name": "B&M Racing"
+        },
+        {
+            "id": "BBS",
+            "name": "BBS"
+        },
+        {
+            "id": "BILSTEIN",
+            "name": "Bilstein"
+        },
+        {
+            "id": "BORLA",
+            "name": "Borla"
+        },
+        {
+            "id": "BREMBO",
+            "name": "Brembo"
+        },
+        {
+            "id": "BRIDE",
+            "name": "Bride"
+        },
+        {
+            "id": "CASTROL",
+            "name": "Castrol"
+        },
+        {
+            "id": "CERAMICOOL",
+            "name": "Ceramicool"
+        },
+        {
+            "id": "CHROMEFLAMMEN",
+            "name": "Chrom & Flammen"
+        },
+        {
+            "id": "CLUTCHMASTERS",
+            "name": "Clutch Masters"
+        },
+        {
+            "id": "COLDFUSION",
+            "name": "Cold Fusion"
+        },
+        {
+            "id": "COMPTECH",
+            "name": "Comptech"
+        },
+        {
+            "id": "CROWER",
+            "name": "Crower Cams"
+        },
+        {
+            "id": "DC",
+            "name": "DC Sports"
+        },
+        {
+            "id": "DISTILLED",
+            "name": "Distilled"
+        },
+        {
+            "id": "DO-LUCK",
+            "name": "Do-Luck"
+        },
+        {
+            "id": "EDELBROCK",
+            "name": "Edelbrock"
+        },
+        {
+            "id": "EIBACH",
+            "name": "Eibach Springs"
+        },
+        {
+            "id": "ELABORARE",
+            "name": "Elaborare"
+        },
+        {
+            "id": "ENDLESS",
+            "name": "Endless USA"
+        },
+        {
+            "id": "ENKEI",
+            "name": "Enkei"
+        },
+        {
+            "id": "EUROLITE",
+            "name": "Eurolite"
+        },
+        {
+            "id": "EXTRDIMENSION",
+            "name": "Extreme Dimensions"
+        },
+        {
+            "id": "EXTREME",
+            "name": "Extreme Technology"
+        },
+        {
+            "id": "FASTBRAKES",
+            "name": "Fastbrakes"
+        },
+        {
+            "id": "FIDANZA",
+            "name": "Fidanza"
+        },
+        {
+            "id": "GREDDY",
+            "name": "GReddy"
+        },
+        {
+            "id": "GENTERA",
+            "name": "Gentera"
+        },
+        {
+            "id": "HNR",
+            "name": "H&R Springs"
+        },
+        {
+            "id": "HEDMAN",
+            "name": "Hedman Headers"
+        },
+        {
+            "id": "HENSHIN",
+            "name": "Henshin Auto"
+        },
+        {
+            "id": "HKS",
+            "name": "HKS USA"
+        },
+        {
+            "id": "HPRACING",
+            "name": "HP Racing"
+        },
+        {
+            "id": "ICEMAN",
+            "name": "Iceman Intakes"
+        },
+        {
+            "id": "IMPORTRACER",
+            "name": "Import Racer"
+        },
+        {
+            "id": "IMPORTTUNER",
+            "name": "Import Tuner"
+        },
+        {
+            "id": "INJEN",
+            "name": "Injen"
+        },
+        {
+            "id": "INTRAX",
+            "name": "Intrax Suspension"
+        },
+        {
+            "id": "JACKSON",
+            "name": "Jackson Racing"
+        },
+        {
+            "id": "JAPAN",
+            "name": "Japan Tuning"
+        },
+        {
+            "id": "JICMAGIC",
+            "name": "JIC - Magic"
+        },
+        {
+            "id": "JLA",
+            "name": "JL Audio"
+        },
+        {
+            "id": "JSP",
+            "name": "JSP America"
+        },
+        {
+            "id": "KENWOOD",
+            "name": "Kenwood"
+        },
+        {
+            "id": "KONI",
+            "name": "Koni"
+        },
+        {
+            "id": "KONIG",
+            "name": "König"
+        },
+        {
+            "id": "KVR",
+            "name": "KVR Performance"
+        },
+        {
+            "id": "KYB",
+            "name": "KYB America"
+        },
+        {
+            "id": "KZR",
+            "name": "KZR Performance"
+        },
+        {
+            "id": "LOWENHART",
+            "name": "Löwenhart"
+        },
+        {
+            "id": "MAGNAFLOW",
+            "name": "Magnaflow"
+        },
+        {
+            "id": "MATRIX",
+            "name": "Matrix Racing"
+        },
+        {
+            "id": "MAXI",
+            "name": "Maxi Tuning"
+        },
+        {
+            "id": "MODIFIEDMAG",
+            "name": "Modified Magazine"
+        },
+        {
+            "id": "MOMO",
+            "name": "Momo"
+        },
+        {
+            "id": "NEUSPEED",
+            "name": "Neuspeed"
+        },
+        {
+            "id": "NFSMW",
+            "name": "NFS Most Wanted"
+        },
+        {
+            "id": "NX",
+            "name": "Nitrous Express"
+        },
+        {
+            "id": "NOLOGY",
+            "name": "Nology Engineering"
+        },
+        {
+            "id": "OZ",
+            "name": "O.Z. Wheels"
+        },
+        {
+            "id": "PIAA",
+            "name": "PIAA"
+        },
+        {
+            "id": "POWERSLOT",
+            "name": "Power Slot"
+        },
+        {
+            "id": "RACINGHART",
+            "name": "Racing Hart Wheels"
+        },
+        {
+            "id": "REVHARD",
+            "name": "Rev Hard"
+        },
+        {
+            "id": "REVO",
+            "name": "Revo Technik"
+        },
+        {
+            "id": "RKSPORT",
+            "name": "RKSport"
+        },
+        {
+            "id": "ROJA",
+            "name": "Ro_Ja Wheels"
+        },
+        {
+            "id": "SCC",
+            "name": "Sport Compact Car"
+        },
+        {
+            "id": "SCORPION",
+            "name": "Scorpion Exhausts"
+        },
+        {
+            "id": "SKUNK2",
+            "name": "Skunk2 Racing"
+        },
+        {
+            "id": "SLP",
+            "name": "SLP Performance Parts"
+        },
+        {
+            "id": "SPARCO",
+            "name": "Sparco"
+        },
+        {
+            "id": "SS",
+            "name": "Super Street"
+        },
+        {
+            "id": "STILLEN",
+            "name": "Stillen"
+        },
+        {
+            "id": "STOPTECH",
+            "name": "Stoptech"
+        },
+        {
+            "id": "STRATO",
+            "name": "Stratospeed"
+        },
+        {
+            "id": "THERMAL",
+            "name": "Thermal"
+        },
+        {
+            "id": "TODA",
+            "name": "TODA"
+        },
+        {
+            "id": "TOYO",
+            "name": "Toyo Tires"
+        },
+        {
+            "id": "TUNERTRANS",
+            "name": "Tuner Transformation"
+        },
+        {
+            "id": "TURBONETICS",
+            "name": "Turbonetics"
+        },
+        {
+            "id": "UNORTHODOX",
+            "name": "Unorthodox Racing"
+        },
+        {
+            "id": "VENOM",
+            "name": "Venom"
+        },
+        {
+            "id": "VIS",
+            "name": "VIS Racing"
+        },
+        {
+            "id": "VOLK",
+            "name": "Volk"
+        },
+        {
+            "id": "WELD",
+            "name": "Weld Racing"
+        },
+        {
+            "id": "XSENGINEERING",
+            "name": "XS Engineering"
+        },
+        {
+            "id": "YOKOHAMA",
+            "name": "Yokohama"
+        },
+        {
+            "id": "ZEX",
+            "name": "ZEX"
+        }
+    ]
+}

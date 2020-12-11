@@ -1,0 +1,202 @@
+{
+    "cars": [
+        {
+            "id": "db9",
+            "name": "Aston Martin DB9",
+            "spoilerType": 0,
+            "bodykits": 4
+        },
+        {
+            "id": "a3",
+            "name": "Audi A3 3.2 quattro",
+            "spoilerType": 1,
+            "bodykits": 4
+        },
+        {
+            "id": "a4",
+            "name": "Audi A4 3.2 FSI quattro",
+            "spoilerType": 0,
+            "bodykits": 4
+        },
+        {
+            "id": "tt",
+            "name": "Audi TT 3.2 quattro",
+            "spoilerType": 0,
+            "bodykits": 4
+        },
+        {
+            "id": "cts",
+            "name": "Cadillac CTS",
+            "spoilerType": 0,
+            "bodykits": 4
+        },
+        {
+            "id": "cobaltss",
+            "name": "Chevrolet Cobalt SS",
+            "spoilerType": 0,
+            "bodykits": 4
+        },
+        {
+            "id": "corvette",
+            "name": "Chevrolet Corvette C6",
+            "spoilerType": 0,
+            "bodykits": 4
+        },
+        {
+            "id": "corvettec6r",
+            "name": "Chevrolet Corvette C6.R",
+            "spoilerType": 0,
+            "bodykits": 0
+        },
+        {
+            "id": "viper",
+            "name": "Dodge Viper SRT10",
+            "spoilerType": 0,
+            "bodykits": 4
+        },
+        {
+            "id": "punto",
+            "name": "Fiat Punto",
+            "spoilerType": 1,
+            "bodykits": 4
+        },
+        {
+            "id": "fordgt",
+            "name": "Ford GT",
+            "spoilerType": 0,
+            "bodykits": 4
+        },
+        {
+            "id": "mustanggt",
+            "name": "Ford Mustang GT",
+            "spoilerType": 0,
+            "bodykits": 2
+        },
+        {
+            "id": "gallardo",
+            "name": "Lamborghini Gallardo",
+            "spoilerType": 0,
+            "bodykits": 4
+        },
+        {
+            "id": "murcielago",
+            "name": "Lamborghini Murcielago",
+            "spoilerType": 0,
+            "bodykits": 2
+        },
+        {
+            "id": "is300",
+            "name": "Lexus IS 300",
+            "spoilerType": 0,
+            "bodykits": 4
+        },
+        {
+            "id": "elise",
+            "name": "Lotus Elise",
+            "spoilerType": 0,
+            "bodykits": 4
+        },
+        {
+            "id": "rx7",
+            "name": "Mazda RX-7",
+            "spoilerType": 0,
+            "bodykits": 4
+        },
+        {
+            "id": "rx8",
+            "name": "Mazda RX-8",
+            "spoilerType": 0,
+            "bodykits": 4
+        },
+        {
+            "id": "clk500",
+            "name": "Mercedes-Benz CLK 500",
+            "spoilerType": 0,
+            "bodykits": 4
+        },
+        {
+            "id": "sl500",
+            "name": "Mercedes-Benz SL 500",
+            "spoilerType": 0,
+            "bodykits": 4
+        },
+        {
+            "id": "slr",
+            "name": "Mercedes-Benz SLR McLaren",
+            "spoilerType": 0,
+            "bodykits": 2
+        },
+        {
+            "id": "eclipsegt",
+            "name": "Mitsubishi Eclipse GT",
+            "spoilerType": 0,
+            "bodykits": 4
+        },
+        {
+            "id": "lancerevo8",
+            "name": "Mitsubishi Lancer Evolution VIII",
+            "spoilerType": 0,
+            "bodykits": 4
+        },
+        {
+            "id": "gto",
+            "name": "Pontiac GTO",
+            "spoilerType": 0,
+            "bodykits": 4
+        },
+        {
+            "id": "997s",
+            "name": "Porsche 911 Carrera S",
+            "spoilerType": 2,
+            "bodykits": 4
+        },
+        {
+            "id": "911turbo",
+            "name": "Porsche 911 Turbo S",
+            "spoilerType": 2,
+            "bodykits": 4
+        },
+        {
+            "id": "carreragt",
+            "name": "Porsche Carrera GT",
+            "spoilerType": 3,
+            "bodykits": 2
+        },
+        {
+            "id": "caymans",
+            "name": "Porsche Cayman S",
+            "spoilerType": 2,
+            "bodykits": 4
+        },
+        {
+            "id": "clio",
+            "name": "Renault Clio V6",
+            "spoilerType": 1,
+            "bodykits": 4
+        },
+        {
+            "id": "imprezawrx",
+            "name": "Subaru Impreza WRX STI",
+            "spoilerType": 0,
+            "bodykits": 4
+        },
+        {
+            "id": "supra",
+            "name": "Toyota Supra",
+            "spoilerType": 0,
+            "bodykits": 4
+        },
+        {
+            "id": "monaro",
+            "name": "Vauxhall Monaro VXR",
+            "spoilerType": 0,
+            "bodykits": 4
+        },
+        {
+            "id": "gti",
+            "name": "Volkswagen Golf GTI",
+            "spoilerType": 1,
+            "bodykits": 4
+        }
+    ]
+}
